@@ -12,3 +12,6 @@
   -Buying conditional signal from indicator/ Selling coditional signal from indicator
   
   
+ The result show in percentage of profit/loss.
+  
+  
