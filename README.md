@@ -1,0 +1,1 @@
+# Return-from-investment-in-stock-market-in-Thailand
